@@ -69,8 +69,8 @@ with open('allsides.csv') as csv_file:          #reads in the csv file of the
 bias_data = pd.DataFrame(bias_dict)     #creates a data frame which can be represented
                                         #beautifully in jupyter
 
-reddit = praw.Reddit(client_id='WmdfO7LRyqE0Hg', \
-                     client_secret='99OtNMwKpzbxmV-FJ-Y8GiEa6cUOJw', \
+reddit = praw.Reddit(client_id='', \
+                     client_secret='', \
                      user_agent='Political Sentiment identifier(EE551 FINAL)', \
                      username='EE551-API-Test', \
                      password='OgsIsAtTheWheel20')
