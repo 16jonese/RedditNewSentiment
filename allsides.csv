@@ -1,0 +1,534 @@
+news_source,rating,rating_num,type,perc_agree
+American Enterprise Institute,right-center,4,Think Tank / Policy Group,0.659464131
+Andrew Sullivan,right-center,4,Author,0.5
+AtlasOne,right-center,4,Think Tank / Policy Group,0.46325167
+Ben Stein,right-center,4,Author,0.576136364
+Boston Herald,right-center,4,News Media,0.531135531
+Boston Herald Editorial,right-center,4,News Media,0.521885522
+Bret Stephens,right-center,4,Author,0.443298969
+Cathy Young,right-center,4,Author,0.392857143
+Cato Institute (blog),right-center,4,Think Tank / Policy Group,0.396734334
+Center for Strategic and Budgetary Assessments,right-center,4,Think Tank / Policy Group,0.45144357
+Charles Krauthammer,right-center,4,Author,0.515492958
+Christopher Buskirk,right-center,4,Author,0.52173913
+Daily Press,right-center,4,News Media,0.427083333
+Dana Summers (cartoonist),right-center,4,Author,0.497076023
+David Brooks,right-center,4,Author,0.442273535
+Deseret News,right-center,4,News Media,0.380969875
+Dick Morris,right-center,4,Author,0.422096317
+Drudge Report,right-center,4,News Media,0.611559574
+Family Research Council,right-center,4,Think Tank / Policy Group,0.371812081
+Fiscal Times,right-center,4,News Media,0.554329372
+Fox Online News,right-center,4,News Media,0.414284149
+Freedom House,right-center,4,Think Tank / Policy Group,0.412556054
+Guest Writer - Right,right-center,4,Author,0.394477318
+HotAir,right-center,4,News Media,0.528354857
+Independent Institute,right-center,4,Think Tank / Policy Group,0.450549451
+Independent Journal Review,right-center,4,News Media,0.522394881
+Intellectual Conservative,right-center,4,News Media,0.492236025
+Investor's Business Daily,right-center,4,News Media,0.556598852
+Jack Welch,right-center,4,Author,0.573529412
+James Hohmann,right-center,4,Author,0.421875
+James Pethokoukis,right-center,4,Author,0.468253968
+Joe Scarborough,right-center,4,Author,0.192930781
+John Fund,right-center,4,Author,0.448863636
+"John Gable, AllSides Founder",right-center,4,Author,0.436440678
+John K. Herr,right-center,4,Author,0.536231884
+John Stossel,right-center,4,Author,0.548972189
+Judicial Watch,right-center,4,News Media,0.468342194
+Kathleen Parker,right-center,4,Author,0.616858238
+Leesburg Today,right-center,4,News Media,0.544850498
+Live Action News,right-center,4,News Media,0.609550562
+Manhattan Institute,right-center,4,Think Tank / Policy Group,0.384816754
+MarketWatch,right-center,4,News Media,0.376623377
+Matt Towery,right-center,4,Author,0.523255814
+Matt Welch,right-center,4,Author,0.314102564
+Michael Barone,right-center,4,Author,0.560846561
+Michael Brendan Dougherty,right-center,4,Author,0.48
+Michael Gerson,right-center,4,Author,0.537117904
+Noah Rothman,right-center,4,Author,0.578947368
+One America News Network,right-center,4,News Media,0.495145631
+Orange County Register,right-center,4,News Media,0.547222222
+Peter Roff,right-center,4,Author,0.60899654
+Peter Thiel,right-center,4,Author,0.333333333
+Pittsburgh Post-Gazette,right-center,4,News Media,0.457002457
+PJ Media,right-center,4,News Media,0.545977012
+Project Veritas,right-center,4,News Media,0.402597403
+Quillette,right-center,4,News Media,0.369109948
+Rand Paul,right-center,4,Author,0.540178571
+Reason,right-center,4,News Media,0.598383976
+Reason Foundation,right-center,4,Think Tank / Policy Group,0.487288136
+Rich Zeoli,right-center,4,Author,0.525423729
+Richmond Times Dispatch,right-center,4,News Media,0.572625698
+Ross Douthat,right-center,4,Author,0.604166667
+The American Conservative,right-center,4,News Media,0.461279461
+The Heritage Foundation,right-center,4,Think Tank / Policy Group,0.635271635
+The Libertarian Republic,right-center,4,News Media,0.551896922
+The Post Millennial,right-center,4,News Media,0.644067797
+The Telegraph - UK,right-center,4,News Media,0.631078224
+Thomas Sowell,right-center,4,Author,0.578713969
+Tim Groseclose,right-center,4,Author,0.654867257
+Tom Nichols,right-center,4,Author,0.142857143
+Victor Hanson,right-center,4,Author,0.478723404
+Wall Street Journal - Editorial,right-center,4,News Media,0.575767918
+Washington Examiner,right-center,4,News Media,0.651456058
+Washington Times,right-center,4,News Media,0.664589039
+Watchdog.org,right-center,4,News Media,0.482305359
+Whitehouse.gov,right-center,4,Think Tank / Policy Group,0.459704881
+Accuracy in Media,right,5,Think Tank / Policy Group,0.625947768
+Al Cardenas,right,5,Author,0.597292724
+Allysia Finley (Wall Street Journal),right,5,Author,0.463800905
+American Conservative Union,right,5,Think Tank / Policy Group,0.644067797
+American Greatness,right,5,News Media,0.830188679
+American Spectator,right,5,News Media,0.712432871
+American Thinker,right,5,News Media,0.644674835
+Americans for Tax Reform,right,5,Think Tank / Policy Group,0.581757508
+Andrew Napolitano,right,5,Author,0.552491103
+Ann Coulter,right,5,Author,0.804654443
+Atlas Network,right,5,Think Tank / Policy Group,0.6
+Bearing Drift,right,5,News Media,0.537755102
+Ben Shapiro,right,5,Author,0.622160665
+Bob Gorrell (cartoonist),right,5,Author,0.560723514
+Breitbart News,right,5,News Media,0.677157522
+Brent Bozell,right,5,Author,0.530655391
+Carrie Lukas,right,5,Author,0.557803468
+CBN,right,5,News Media,0.656473515
+Charlie Kirk,right,5,Author,0.680851064
+Chip Bok (cartoonist),right,5,Author,0.518272425
+Chris Ruddy,right,5,Author,0.408333333
+Chuck Asay (cartoonist),right,5,Author,0.545180723
+City Journal,right,5,News Media,0.557919622
+CNS News,right,5,News Media,0.54719472
+CNSNews.com,right,5,News Media,0.53962536
+Commentary Magazine,right,5,News Media,0.492307692
+Conservative HQ,right,5,News Media,0.693533271
+Daily Mail,right,5,News Media,0.572952911
+Dan Lucas,right,5,Author,0.575
+Debra Saunders,right,5,Author,0.544680851
+Dick Locher (cartoonist),right,5,Author,0.301587302
+Ed Rogers,right,5,Author,0.627906977
+Edward Morrissey,right,5,Author,0.504032258
+Eric Allie (cartoonist),right,5,Author,0.532258065
+Fox News Latino,right,5,News Media,0.653624382
+Fox News Opinion,right,5,News Media,0.799870884
+Frank Miniter,right,5,Author,0.503649635
+FrontPage Magazine,right,5,News Media,0.562897078
+Gary Varvel (cartoonist),right,5,Author,0.72
+George Will,right,5,Author,0.420229406
+Glenn Beck,right,5,Author,0.735930736
+Glenn McCoy (cartoonist),right,5,Author,0.571428571
+GOP.gov,right,5,Think Tank / Policy Group,0.664893617
+Grover Norquist,right,5,Author,0.79
+Heather Mac Donald,right,5,Author,0.35483871
+Henry Payne (cartoonist),right,5,Author,0.414814815
+Inacow,right,5,News Media,0.598911071
+InfoWars,right,5,News Media,0.814171657
+James Poulos,right,5,Author,0.635135135
+Jeff Jacoby,right,5,Author,0.58974359
+Jerry Bowyer,right,5,Author,0.361764706
+Jerry Holbert (cartoonist),right,5,Author,0.532467533
+John Boehner,right,5,Author,0.394329897
+John Pudner,right,5,Author,0.403225807
+Jonah Goldberg,right,5,Author,0.405405405
+Ken Catalino (cartoonist),right,5,Author,0.419354839
+Kimberley A. Strassel,right,5,Author,0.595348837
+KSL,right,5,News Media,0.571428571
+Lanhee Chen,right,5,Author,0.405405405
+Lisa Benson (cartoonist),right,5,Author,0.505882353
+Lisa Gable,right,5,Author,0.540540541
+Marc A. Thiessen,right,5,Author,0.55408971
+Mark Mix,right,5,Author,0.595890411
+Mary O'Grady,right,5,Author,0.421875
+Matt Drudge,right,5,Author,0.567867036
+Media Research Center,right,5,News Media,0.447901592
+Michael Goodwin,right,5,Author,0.602739726
+Michael Graham,right,5,Author,0.363636364
+Michael Medved,right,5,Author,0.460732984
+Michael Ramirez (cartoonist),right,5,Author,0.445652174
+Michelle Malkin,right,5,Author,0.649706458
+MichelleMalkin.com,right,5,News Media,0.677241379
+Mike Lester (cartoonist),right,5,Author,0.666666667
+National Review,right,5,News Media,0.677353837
+New York Post,right,5,News Media,0.592634469
+NewsBusters,right,5,Think Tank / Policy Group,0.64
+Newsmax,right,5,News Media,0.432418763
+Newt Gingrich,right,5,Author,0.703278689
+Pacific Research Institute,right,5,Think Tank / Policy Group,0.468864469
+Peggy Noonan,right,5,Author,0.426024955
+PJ Media,right,5,News Media,0.64940239
+Prager University,right,5,Think Tank / Policy Group,0.792545365
+Ralph Benko,right,5,Author,0.383928571
+Ramesh Ponnuru,right,5,Author,0.591160221
+Red State,right,5,News Media,0.75125
+Rich Lowry,right,5,Author,0.519444444
+Richard A. Lowry,right,5,Author,0.584
+Right - Major Media Sources,right,5,News Media,0.50877193
+Right Guest Commentaries,right,5,Author,0.54
+Right Side News,right,5,News Media,0.673300166
+Right Wing News,right,5,News Media,0.697029703
+Sally Pipes,right,5,Author,0.698305085
+Scott Stantis (cartoonist),right,5,Author,0.4
+Steve Kelley (cartoonist),right,5,Author,0.482758621
+The College Fix,right,5,News Media,0.549222798
+The Daily Caller,right,5,News Media,0.646316082
+The Daily Signal,right,5,News Media,0.767515924
+The Daily Wire,right,5,News Media,0.669209943
+The Epoch Times,right,5,News Media,0.674976916
+The Federalist,right,5,News Media,0.670027248
+The Gateway Pundit,right,5,News Media,0.577553594
+The Resurgent,right,5,News Media,0.619047619
+The Weekly Standard,right,5,News Media,0.631234257
+TheBlaze.com,right,5,News Media,0.562360633
+Tom Cole,right,5,Author,0.641791045
+Townhall,right,5,News Media,0.394058271
+Tucker Carlson,right,5,Author,0.595588235
+Washington Free Beacon,right,5,News Media,0.496590909
+Western Journalism,right,5,News Media,0.697952218
+Whatfinger News,right,5,News Media,0.580357143
+William Bennett,right,5,Author,0.418502203
+William McGurn,right,5,Author,0.681818182
+WND.com,right,5,News Media,0.711507293
+ABC News,left-center,2,News Media,0.594474614
+ACLU,left-center,2,Think Tank / Policy Group,0.42842708
+Al Jazeera,left-center,2,News Media,0.376536313
+Annafi Wahed,left-center,2,Author,0.51039261
+Arkadi Gerney,left-center,2,Author,0.536111111
+Atlanta Journal-Constitution,left-center,2,News Media,0.520500348
+Austin American-Statesman,left-center,2,News Media,0.569576491
+Bowling Green Daily News,left-center,2,News Media,0.478886756
+Bustle,left-center,2,News Media,0.494143485
+CBS News,left-center,2,News Media,0.561564737
+Center For American Progress,left-center,2,Think Tank / Policy Group,0.404509894
+Center for Media & Democracy PR Watch,left-center,2,Think Tank / Policy Group,0.503480278
+Center for Public Integrity,left-center,2,News Media,0.471020408
+Centre View,left-center,2,News Media,0.467479675
+Charles Blow,left-center,2,Author,0.494004796
+Chicago Sun-Times,left-center,2,News Media,0.501985703
+Christiane Amanpour,left-center,2,Author,0.436639119
+CNN (Web News),left-center,2,News Media,0.489364704
+Counter Currents,left-center,2,News Media,0.591002045
+Daily Northwestern,left-center,2,News Media,0.489633174
+Daily Targum,left-center,2,News Media,0.367924528
+Damon Linker,left-center,2,Author,0.482532751
+David Holmes,left-center,2,Author,0.547826087
+David Leonhardt,left-center,2,Author,0.551181102
+Environmental Defense Fund,left-center,2,Think Tank / Policy Group,0.600496278
+FAIR,left-center,2,Think Tank / Policy Group,0.44
+Federation of American Scientists,left-center,2,Think Tank / Policy Group,0.464935065
+Food Democracy Now,left-center,2,Think Tank / Policy Group,0.513888889
+Frank Bruni,left-center,2,Author,0.415584416
+Froma Harrop,left-center,2,Author,0.544642857
+Google News,left-center,2,News Media,0.662698413
+Grist,left-center,2,News Media,0.470114943
+Guest Writer - Left,left-center,2,Author,0.368286445
+Harvard Business School,left-center,2,News Media,0.463636364
+Healthcare.gov,left-center,2,Think Tank / Policy Group,0.343023256
+Hirsh Joshi,left-center,2,Author,NaN
+Indy Week,left-center,2,News Media,0.45945946
+Jennifer Rubin,left-center,2,Author,0.37
+Jeremy E Sherman,left-center,2,Author,0.5
+Jim Rutenberg,left-center,2,Author,0.527472528
+Jon Terbush,left-center,2,Author,0.413953488
+Juan Williams,left-center,2,Author,0.520426288
+Julian Zelizer,left-center,2,Author,0.441295547
+Kevin Kallaugher (cartoonist),left-center,2,Author,0.551724138
+Kirsten Powers,left-center,2,Author,0.59375
+Las Vegas Sun,left-center,2,News Media,0.490196078
+Longmont Times-Call,left-center,2,News Media,0.484251969
+Los Angeles Times,left-center,2,News Media,0.575385494
+Louisville Courier-Journal,left-center,2,News Media,0.514950166
+Mediaite,left-center,2,News Media,0.493579454
+Miami Herald,left-center,2,News Media,0.475308642
+Michelle Alexander,left-center,2,Author,0.5
+Michigan Daily,left-center,2,News Media,0.532763533
+MTV News Online,left-center,2,News Media,0.439393939
+NBC Today Show,left-center,2,News Media,0.466787989
+NBCNews.com,left-center,2,News Media,0.438363278
+Neil J. Young,left-center,2,Author,0.333333333
+New Economy Working Group,left-center,2,Think Tank / Policy Group,0.593939394
+New York Times - News,left-center,2,News Media,0.383167518
+Newsweek,left-center,2,News Media,0.451963612
+NPR Editorial,left-center,2,News Media,0.486013072
+Pacific Standard,left-center,2,News Media,0.533333333
+Piers Morgan,left-center,2,Author,0.34521576
+Politico,left-center,2,News Media,0.390908317
+PolitiFact,left-center,2,News Media,0.415527611
+Rachel Eckhardt,left-center,2,Author,0.382352941
+Rahm Emanuel,left-center,2,Author,0.209302326
+RAND Corporation,left-center,2,Think Tank / Policy Group,0.440045249
+Richard M. Cohen,left-center,2,Author,0.666666667
+Rick Ungar,left-center,2,Author,0.507936508
+Ruth Marcus,left-center,2,Author,0.486381323
+San Jose Mercury News,left-center,2,News Media,0.479136691
+SFGate,left-center,2,News Media,0.470660147
+Sky-Hi Daily News,left-center,2,News Media,0.542857143
+Spokesman Review,left-center,2,News Media,0.475362319
+State Journal,left-center,2,News Media,0.413897281
+Teen Vogue,left-center,2,News Media,0.399702823
+The Advocate-Messenger,left-center,2,News Media,0.437288136
+The Atlantic,left-center,2,News Media,0.628361519
+The Boston Globe,left-center,2,News Media,0.567116759
+The Cadiz Record,left-center,2,News Media,0.486394558
+The Commercial Appeal,left-center,2,News Media,0.408304498
+The Courier-Journal,left-center,2,News Media,0.323529412
+The Daily Show (humor),left-center,2,News Media,0.431291817
+The Delaware County Daily Times,left-center,2,News Media,0.469055375
+The Economist,left-center,2,News Media,0.349220104
+The Guardian,left-center,2,News Media,0.609626206
+The Independent,left-center,2,News Media,0.5
+The Justice,left-center,2,News Media,0.472727273
+The Philadelphia Inquirer,left-center,2,News Media,0.410852713
+The Root,left-center,2,News Media,0.422700587
+The Sacramento Bee,left-center,2,News Media,0.493506494
+The Texas Observer,left-center,2,News Media,0.47826087
+The Verge,left-center,2,News Media,0.613445378
+Thomas Frank,left-center,2,Author,0.471774194
+Time Magazine,left-center,2,News Media,0.546557121
+TruthOut,left-center,2,News Media,0.483592401
+U.S. News & World Report,left-center,2,News Media,0.470741222
+Univision,left-center,2,News Media,0.44546851
+Vanity Fair,left-center,2,News Media,0.60817966
+VT Digger,left-center,2,News Media,0.438202247
+Washington Monthly,left-center,2,News Media,0.528481013
+Washington Post,left-center,2,News Media,0.614700066
+Willam A. Galston,left-center,2,Author,0.506410256
+Wisconsin Gazette,left-center,2,News Media,0.529968454
+Yahoo! News,left-center,2,News Media,0.555378232
+AJ+,left,1,News Media,0.722222222
+AlterNet,left,1,News Media,0.795686182
+Americans for Democratic Action,left,1,Think Tank / Policy Group,0.694483734
+Aquinas College Saint,left,1,News Media,0.617670683
+Arkansas Democrat-Gazette,left,1,News Media,0.569241475
+Ben Sargent (cartoonist),left,1,Author,0.466487936
+Blue Virginia,left,1,News Media,0.58203483
+Boing Boing,left,1,News Media,0.608938548
+BuzzFeed News,left,1,News Media,0.482420795
+Care 2,left,1,News Media,0.483267717
+Center on Budget and Policy Priorities,left,1,Think Tank / Policy Group,0.530185759
+Chan Lowe (cartoonist),left,1,Author,0.457831325
+Children’s Defense Fund,left,1,Think Tank / Policy Group,0.476772616
+Clay Bennett (cartoonist),left,1,Author,0.573394495
+CNN - Editorial,left,1,News Media,0.778814185
+Council on Foreign Relations,left,1,Think Tank / Policy Group,0.415730337
+Current Affairs,left,1,News Media,0.722807018
+Daily Beast,left,1,News Media,0.645223356
+Daily Kos,left,1,News Media,0.730222841
+Dan Wasserman (cartoonist),left,1,Author,0.702702703
+Democracy Now,left,1,News Media,0.746753247
+Drew Sheneman (cartoonist),left,1,Author,0.548076923
+E J Dionne,left,1,Author,0.555685815
+Economic Policy Institute,left,1,Think Tank / Policy Group,0.475862069
+EdVotes.org,left,1,Think Tank / Policy Group,0.701612903
+Eli Parser,left,1,Author,0.590909091
+Esquire,left,1,News Media,0.646425826
+Eugene Robinson,left,1,Author,0.586092715
+Ezra Klein,left,1,Author,0.572668113
+Falls Church News - Press,left,1,News Media,0.447332421
+Herald Democrat,left,1,News Media,0.566951567
+HuffPost,left,1,News Media,0.507600367
+Jack Ohman (cartoonist),left,1,Author,0.59375
+Jacobin,left,1,News Media,0.861682243
+Jeff Danziger (cartoonist),left,1,Author,0.5
+Jeff Stahler (cartoonist),left,1,Author,0.614457831
+Jen Sorensen (cartoonist),left,1,Author,0.618421053
+Jesse Jackson,left,1,Author,0.852459016
+Jezebel,left,1,News Media,0.75
+Jim Morin (cartoonist),left,1,Author,0.742857143
+Joan Blades,left,1,Author,0.356521739
+Joel Pett (cartoonist),left,1,Author,0.522727273
+Jonathan Chait,left,1,Author,0.523178808
+Jonathan Miller,left,1,Author,0.481818182
+Lalo Alcaraz (cartoonist),left,1,Author,0.607142857
+Lauren Duca,left,1,Author,0.651685393
+Left - Major Media Sources,left,1,News Media,0.574468085
+Left Guest Commentaries,left,1,Author,0.472527473
+Leonard Pitts Jr,left,1,Author,0.535433071
+Mark Morford,left,1,Author,0.628571429
+Mashable,left,1,News Media,0.74025974
+Matt Bors (cartoonist),left,1,Author,0.75
+Matt Davies (cartoonist),left,1,Author,0.666666667
+Matt Wuerker (cartoonist),left,1,Author,0.630434783
+Media Matters,left,1,News Media,0.613153806
+Michael Kinsley,left,1,Author,0.563492064
+Mike Luckovich (cartoonist),left,1,Author,0.549618321
+Mother Jones,left,1,News Media,0.842728122
+MSNBC,left,1,News Media,0.747106786
+National Committee to Preserve Social Security and Medicare,left,1,Think Tank / Policy Group,0.495956873
+New Republic,left,1,News Media,0.650752465
+New York Daily News,left,1,News Media,0.692832765
+New York Magazine,left,1,News Media,0.685496795
+New York Times - Opinion,left,1,News Media,0.763779528
+Nicholas Kristof,left,1,Author,0.508305648
+Paul Krugman,left,1,Author,0.614
+Peacock Panache,left,1,News Media,0.659090909
+People for the American Way,left,1,Think Tank / Policy Group,0.609756098
+Physicians for a National Health Program,left,1,Think Tank / Policy Group,0.581395349
+PoliticusUSA,left,1,News Media,0.755769231
+Progressive Voices of Iowa,left,1,News Media,0.644444444
+Raw Story,left,1,News Media,0.623096447
+Rob Rogers (cartoonist),left,1,Author,0.8375
+RollingStone.com,left,1,News Media,0.786885246
+Ryan Cooper,left,1,Author,0.788990826
+Ryan Cooper,left,1,Author,0.628318584
+Salon,left,1,News Media,0.686634785
+San Francisco Chronicle,left,1,News Media,0.752007137
+Signe Wilkinson (cartoonist),left,1,Author,0.595238095
+Slate,left,1,News Media,0.582413733
+Small World (cartoonist),left,1,Author,0.358974359
+Socialist Alternative,left,1,News Media,0.697297297
+Socialist Project/The Bullet,left,1,News Media,0.697095436
+Splinter,left,1,News Media,0.792929293
+Steve Benson (cartoonist),left,1,Author,0.520408163
+Steve Sack (cartoonist),left,1,Author,0.650793651
+Stuart Carlson (cartoonist),left,1,Author,0.41509434
+Ted Rall (cartoonist),left,1,Author,0.596774194
+The Canyon County Zephyr,left,1,News Media,0.558704453
+The Intercept,left,1,News Media,0.657096425
+The Nation,left,1,News Media,0.759129759
+The New Yorker,left,1,News Media,0.761651548
+ThinkProgress,left,1,News Media,0.762146051
+Tom Toles (cartoonist),left,1,Author,0.561797753
+Tony Auth (cartoonist),left,1,Author,0.525
+Truthdig,left,1,News Media,0.823529412
+Upworthy,left,1,News Media,0.595679012
+Vice,left,1,News Media,0.769741697
+Vox,left,1,News Media,0.502670147
+Walt Handelsman (cartoonist),left,1,Author,0.465277778
+Yes! Magazine,left,1,News Media,0.680769231
+AARP,center,3,Think Tank / Policy Group,0.37469976
+Andy Ngo,center,3,Author,0.533333333
+AP News,center,3,Author,0.55216285
+Associated Press,center,3,News Media,0.582382081
+Association for Psychological Science,center,3,Think Tank / Policy Group,0.553480475
+Axios,center,3,News Media,0.464224581
+AZ Central,center,3,News Media,0.264705882
+Barnstable Patriot,center,3,News Media,0.461950697
+BBC News,center,3,News Media,0.504863112
+Beth Ballentine,center,3,Author,0.461200586
+Billy Binion,center,3,Author,0.566137566
+Bloomberg,center,3,News Media,0.459285714
+Brookings Institution,center,3,Think Tank / Policy Group,0.603640315
+Business Insider,center,3,News Media,0.466716159
+C-SPAN,center,3,News Media,0.770473222
+CalMatters,center,3,News Media,0.558252427
+CalWatchdog,center,3,News Media,0.486368593
+Carnegie Endowment for International Peace,center,3,Think Tank / Policy Group,0.559593023
+Center - Major Media Sources,center,3,News Media,0.541786744
+Chicago Tribune,center,3,News Media,0.356300813
+Chris Britt (cartoonist),center,3,Author,0.637931035
+Christian Science Monitor,center,3,News Media,0.431413316
+CivilPolitics.org,center,3,Think Tank / Policy Group,0.501187649
+CNBC,center,3,News Media,0.282361437
+CNET,center,3,News Media,0.531034483
+Columbia Journalism Review,center,3,News Media,0.326923077
+Conor Friedersdorf,center,3,Author,0.428571429
+Cook Report,center,3,News Media,0.623366641
+Countable,center,3,News Media,0.479166667
+CrowdPAC,center,3,News Media,0.489239598
+CU Independent,center,3,News Media,0.448387097
+Daily Cardinal,center,3,News Media,0.483594865
+Daily Progress,center,3,News Media,0.507936508
+Dana Milbank,center,3,Author,0.385150812
+David Ignatius,center,3,Author,0.438735178
+Defense One,center,3,News Media,0.514851485
+Diplomatic Courier,center,3,News Media,0.56487026
+Drew Litton (cartoonist),center,3,Author,0.294117647
+Duke Chronicle,center,3,News Media,0.506955178
+Erik Wemple,center,3,Author,0.430412371
+Estes Park Trail Gazette,center,3,News Media,0.420224719
+Eurek Alert,center,3,News Media,0.473594549
+Fact Checker Blog,center,3,News Media,0.548069022
+FactCheck.org,center,3,News Media,0.577408498
+Fair.org,center,3,News Media,0.49704142
+Fareed Zakaria,center,3,Author,0.335097002
+Financial Times,center,3,News Media,0.611510791
+FiveThirtyEight,center,3,News Media,0.622263798
+Forbes,center,3,News Media,0.619173811
+Foreign Affairs,center,3,News Media,0.643572621
+Freakonomics,center,3,Think Tank / Policy Group,0.595959596
+Gary Markstein (cartoonist),center,3,Author,0.356435644
+Guest Writer - Center,center,3,Author,0.333333333
+Hampton Roads Messanger,center,3,News Media,0.500754148
+Henry A. Brechter,center,3,Author,0.611111111
+Honolulu Civil Beat,center,3,News Media,0.421216849
+How Do We Fix It?,center,3,News Media,0.502722323
+Howard Kurtz,center,3,News Media,0.52173913
+Howard Kurtz,center,3,Author,0.565349544
+Indiana Daily Student,center,3,News Media,0.429097606
+Indy Online,center,3,News Media,0.471698113
+Inside Philanthropy,center,3,News Media,0.484848485
+International Business Times,center,3,News Media,0.572727273
+IVN,center,3,News Media,0.508219178
+John Deering (cartoonist),center,3,Author,0.453333333
+Journalist's Resource,center,3,News Media,0.462845011
+Jubilee Media,center,3,News Media,0.568421053
+KATU,center,3,News Media,0.411764706
+KQED,center,3,News Media,0.545454546
+Laura Rose Junco,center,3,Author,0.2
+Lifehacker,center,3,News Media,0.50499002
+Mark Gerzon,center,3,Author,0.45
+Marshall Ramsey (cartoonist),center,3,Author,0.559139785
+Maureen Dowd,center,3,Author,0.266853933
+McClatchyDC,center,3,News Media,0.473684211
+Mike Thompson (cartoonist),center,3,Author,0.421052632
+MIT News,center,3,News Media,0.553846154
+Morgan Jacobsen,center,3,Author,0.417910448
+National Interest,center,3,Think Tank / Policy Group,0.434931507
+National Journal,center,3,News Media,0.581500647
+Nick Anderson (cartoonist),center,3,Author,0.394736842
+NMPolitics.net,center,3,News Media,0.416666667
+No Labels,center,3,Think Tank / Policy Group,0.576923077
+NPR Online News,center,3,News Media,0.572380054
+OpenSecrets.org,center,3,Think Tank / Policy Group,0.550484094
+Pat Oliphant (cartoonist),center,3,Author,0.461538462
+Paul Szep (cartoonist),center,3,Author,0.531914894
+PBS NewsHour,center,3,News Media,0.577129918
+Portland Press Herald,center,3,News Media,0.396551724
+PRI (Public Radio International),center,3,News Media,0.638075314
+ProPublica,center,3,News Media,0.612408759
+PXW News,center,3,News Media,0.488372093
+Quartz,center,3,News Media,0.527313266
+Rasmussen Reports,center,3,News Media,0.407407407
+RealClearPolitics,center,3,News Media,0.535755479
+Record Journal,center,3,News Media,0.465753425
+redefinED,center,3,Think Tank / Policy Group,0.658031088
+Rem Reider,center,3,Author,0.4375
+Reuters,center,3,News Media,0.602167592
+Rich Tafel,center,3,Author,0.519379845
+Robert Ariail (cartoonist),center,3,Author,0.472727273
+Robert Samuelson,center,3,Author,0.476851852
+Roll Call,center,3,News Media,0.507142857
+SBG,center,3,Author,0.52631579
+Science Daily,center,3,News Media,0.620689655
+Scientific American,center,3,News Media,0.676428571
+Scott Adams,center,3,Author,0.46875
+SF Weekly,center,3,News Media,0.425661915
+Smerconish,center,3,News Media,0.401709402
+Steve Breen (cartoonist),center,3,Author,0.56043956
+Subverse,center,3,News Media,1
+Tallahassee Democrat,center,3,News Media,0.511873351
+TechCrunch,center,3,News Media,0.623106061
+Test Source,center,3,News Media,0.476595745
+The Dallas Morning News,center,3,News Media,0.592
+The Fulcrum,center,3,News Media,0.380952381
+The Hill,center,3,News Media,0.447786333
+The Jerusalem Post,center,3,News Media,0.497435897
+The Korea Herald,center,3,News Media,0.639810427
+The Observer (New York),center,3,News Media,0.351239669
+The Oracle,center,3,News Media,0.357664234
+The Red and Black,center,3,News Media,0.585492228
+The Reliable Bias,center,3,News Media,0.378048781
+The Republican,center,3,News Media,0.287698413
+The Saturday Evening Post,center,3,News Media,0.608695652
+The Week - News,center,3,News Media,0.57107704
+Tim Pool,center,3,Author,0.676300578
+Truth or Fiction,center,3,News Media,0.552631579
+USA TODAY,center,3,News Media,0.554101025
+Volante,center,3,News Media,0.477876106
+Vote Smart,center,3,Think Tank / Policy Group,0.480916031
+Wake Up to Politics,center,3,News Media,0.567567568
+Wall Street Journal - News,center,3,News Media,0.411415375
+WANDTV,center,3,News Media,NaN
+WFAE,center,3,News Media,0.454901961
+WGBH,center,3,News Media,0.548387097
+WGN,center,3,News Media,0.333333333
